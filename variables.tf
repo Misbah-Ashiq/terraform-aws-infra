@@ -40,6 +40,6 @@ variable "instance_type" {
 
 variable "key_pair_name" {
   type    = string
-  default = "keylogin"
+  default = "loginkey"
 }
 
