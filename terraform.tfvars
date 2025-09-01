@@ -1,14 +1,18 @@
-project_name        = "iac-ec2-vpc"
-aws_region          = "ap-south-1"     # or "us-east-1"
+project_name        = "terraform-aws-infra"
+aws_region          = "us-east-1"   # North Virginia
 vpc_cidr            = "10.0.0.0/16"
 public_subnet_cidr  = "10.0.1.0/24"
 private_subnet_cidr = "10.0.2.0/24"
 
-# replace with YOUR IP/CIDR for security if possible
-allowed_ssh_cidr    = "0.0.0.0/0"
+# Only your IP allowed for SSH (secure)
+allowed_ssh_cidr    = "204.236.206.26/32"
+
+# HTTP (80) sabke liye allow, taake web server accessible ho
 allowed_http_cidr   = "0.0.0.0/0"
 
-instance_type       = "t3.micro"
+# Instance size
+instance_type       = "t2.micro"
 
-# If you have an EC2 Key Pair in your region, put its name here, else leave empty
-key_pair_name       = "your-ec2-keypair-name"
+# EC2 Key Pair name (without .pem extension)
+key_pair_name       = "keylogin"
+
