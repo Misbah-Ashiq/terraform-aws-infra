@@ -14,5 +14,5 @@ allowed_http_cidr   = "0.0.0.0/0"
 instance_type       = "t2.micro"
 
 # EC2 Key Pair name (without .pem extension)
-key_pair_name       = "keylogin"
+key_pair_name       = "loginkey"
 
