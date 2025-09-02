@@ -12,6 +12,11 @@ We will create a **VPC, Subnets, Internet Gateway, Security Groups, and an EC2 i
 - **Secure by Design** (IAM roles, Security Groups, VPC isolation)  
 - **Cost-optimized** deployment  
 
+## 🏗️ Architecture Diagram
+
+<img width="408" height="614" alt="image" src="https://github.com/user-attachments/assets/134ced56-fbce-4185-a23c-8899037e0a7d" />
+<img width="958" height="616" alt="image" src="https://github.com/user-attachments/assets/a54f61b8-6813-4c01-a85c-4474d1d01335" />
+
 
 ## ⚙️ Technologies Used
 
@@ -83,7 +88,8 @@ terraform destroy -auto-approve
 
 ## Contact me
 
-- **Fiverr:** [https://www.fiverr.com/s/kLZGZvg](https://www.fiverr.com/s/kLZGZvg)\
-- **LinkedIn:** [www.linkedin.com/in/misbah-ashiq-14a0aa356](www.linkedin.com/in/misbah-ashiq-14a0aa356)\
-- **GitHub:** [https://github.com/Misbah-Ashiq](https://github.com/Misbah-Ashiq)\
+- **Fiverr:** [https://www.fiverr.com/s/kLZGZvg](https://www.fiverr.com/s/kLZGZvg)
+- **LinkedIn:** [www.linkedin.com/in/misbah-ashiq-14a0aa356](www.linkedin.com/in/misbah-ashiq-14a0aa356)
+- **GitHub:** [https://github.com/Misbah-Ashiq](https://github.com/Misbah-Ashiq)
 - **Email:** [misbahdevops46@gmail.com](misbahdevops46@gmail.com)
+
