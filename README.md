@@ -14,7 +14,8 @@ We will create a **VPC, Subnets, Internet Gateway, Security Groups, and an EC2 i
 
 ## 🏗️ Architecture Diagram
 
-<img width="408" height="614" alt="image" src="https://github.com/user-attachments/assets/134ced56-fbce-4185-a23c-8899037e0a7d" />
+<img width="402" height="598" alt="image" src="https://github.com/user-attachments/assets/09000fd2-79da-4ce4-9f87-9db8038dd490" />
+
 <img width="958" height="616" alt="image" src="https://github.com/user-attachments/assets/a54f61b8-6813-4c01-a85c-4474d1d01335" />
 
 
@@ -92,4 +93,5 @@ terraform destroy -auto-approve
 - **LinkedIn:** [www.linkedin.com/in/misbah-ashiq-14a0aa356](www.linkedin.com/in/misbah-ashiq-14a0aa356)
 - **GitHub:** [https://github.com/Misbah-Ashiq](https://github.com/Misbah-Ashiq)
 - **Email:** [misbahdevops46@gmail.com](misbahdevops46@gmail.com)
+
 
